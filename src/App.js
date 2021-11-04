@@ -4,7 +4,6 @@ import Header from './components/Header';
 import { BrowserRouter, Routes, Route } from 'react-router-dom'
 import Players from './components/Players';
 import Teams from './components/Teams';
-import Player from './components/Player';
 
 function App() {
   return (
