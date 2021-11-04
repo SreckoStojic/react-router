@@ -1,5 +1,4 @@
 import React from "react";
-import { withRouter } from 'react-router-dom';
 
 function Team(props) {
     return (
@@ -15,4 +14,4 @@ function Team(props) {
     );
 };
 
-export default withRouter(Team);
+export default Team;

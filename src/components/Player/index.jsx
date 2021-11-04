@@ -1,5 +1,4 @@
 import React from "react";
-import { withRouter } from 'react-router-dom';
 import './Player.css';
 
 function Player(props) {
@@ -16,4 +15,4 @@ function Player(props) {
     );
 };
 
-export default withRouter(Player);
+export default Player;
